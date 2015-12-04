@@ -8,6 +8,10 @@ public class PickUp : MonoBehaviour {
     {
         if (col.tag == "Player")
         {
+            if (Application.loadedLevelName == "Scene4")
+            {
+                PlayerMovement.timer = 0.5f;
+            }
             ScoreManager.UpdateScore(points);
             Destroy(GetComponent<SpriteRenderer>());
             Destroy(this);

@@ -46,6 +46,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\FollowPlayer.cs" />
+     <Compile Include="Assets\GameController.cs" />
+     <Compile Include="Assets\GameOverManager.cs" />
      <Compile Include="Assets\Handpainted Forest Environment Free Sample\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
      <Compile Include="Assets\Handpainted Forest Environment Free Sample\Standard Assets\Effects\ImageEffects\Scripts\Antialiasing.cs" />
      <Compile Include="Assets\Handpainted Forest Environment Free Sample\Standard Assets\Effects\ImageEffects\Scripts\Bloom.cs" />
@@ -85,8 +87,15 @@
      <Compile Include="Assets\Handpainted Forest Environment Free Sample\Standard Assets\Effects\ImageEffects\Scripts\Twirl.cs" />
      <Compile Include="Assets\Handpainted Forest Environment Free Sample\Standard Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
      <Compile Include="Assets\Handpainted Forest Environment Free Sample\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs" />
+     <Compile Include="Assets\Hole.cs" />
+     <Compile Include="Assets\LightMovement.cs" />
+     <Compile Include="Assets\MenuScript.cs" />
+     <Compile Include="Assets\PickUp.cs" />
      <Compile Include="Assets\PlayerHealth.cs" />
      <Compile Include="Assets\PlayerMovement.cs" />
+     <Compile Include="Assets\ScoreManager.cs" />
+     <Compile Include="Assets\UpdateScore.cs" />
+     <Compile Include="Assets\WinManager.cs" />
      <None Include="Assets\Handpainted Forest Environment Free Sample\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Handpainted Forest Environment Free Sample\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
      <None Include="Assets\Handpainted Forest Environment Free Sample\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />

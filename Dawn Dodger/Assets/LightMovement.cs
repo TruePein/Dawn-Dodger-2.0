@@ -5,7 +5,7 @@ public class LightMovement : MonoBehaviour {
     public static float MovementSpeed = 100f;
 	// Use this for initialization
 	void Start () {
-        
+        MovementSpeed = 100f;
         GetComponent<SpriteRenderer>().color = new Color(1f, 1f, 1f, 0.5f);
     }
     
