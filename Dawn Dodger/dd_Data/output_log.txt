@@ -1,65 +1,61 @@
-Initialize engine version: 5.2.2f1 (3757309da7e7)
+Initialize engine version: 5.2.3f1 (f3d16a1fa2dd)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: Intel(R) HD Graphics (ID=0x156)
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
     Vendor:   Intel
     VRAM:     128 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Dominick\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Dominick\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Dominick\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Dominick\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Dominick\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\Dominick\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: C:\Users\Dominick\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Dominick\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Dominick\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Dominick\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\Dominick\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Dominick\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\Dominick\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Dominick\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Dominick\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.093 seconds
-desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+Platform assembly: C:\Users\stone\OneDrive\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\stone\OneDrive\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\stone\OneDrive\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\stone\OneDrive\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\stone\OneDrive\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\stone\OneDrive\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\stone\OneDrive\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\stone\OneDrive\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\stone\OneDrive\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\stone\OneDrive\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\stone\OneDrive\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.527 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-Platform assembly: C:\Users\Dominick\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\stone\OneDrive\Documents\GitHub\Dawn-Dodger-2.0\Dawn Dodger\dd_Data\Managed\System.dll (this message is harmless)
 The referenced script on this Behaviour is missing!
  
 (Filename:  Line: 1649)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 21a4 -> priority: 1 
+  Thread -> id: 25a4 -> priority: 1 
 The referenced script on this Behaviour is missing!
  
 (Filename:  Line: 1649)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 5.968921 ms
+UnloadTime: 10.829061 ms
 
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 519.
-Total: 0.312600 ms (FindLiveObjects: 0.050460 ms CreateObjectMapping: 0.020526 ms MarkObjects: 0.228356 ms  DeleteObjects: 0.012401 ms)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1649)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.213626 ms
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 516.
-Total: 0.335693 ms (FindLiveObjects: 0.035066 ms CreateObjectMapping: 0.019671 ms MarkObjects: 0.262995 ms  DeleteObjects: 0.016677 ms)
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 520.
+Total: 0.570361 ms (FindLiveObjects: 0.104501 ms CreateObjectMapping: 0.043949 ms MarkObjects: 0.404331 ms  DeleteObjects: 0.016602 ms)
 
 The referenced script on this Behaviour is missing!
  
 (Filename:  Line: 1649)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.372943 ms
+UnloadTime: 3.390918 ms
 
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 516.
-Total: 0.388719 ms (FindLiveObjects: 0.041908 ms CreateObjectMapping: 0.025230 ms MarkObjects: 0.305330 ms  DeleteObjects: 0.014967 ms)
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 547.
+Total: 0.545945 ms (FindLiveObjects: 0.049320 ms CreateObjectMapping: 0.033205 ms MarkObjects: 0.442909 ms  DeleteObjects: 0.019044 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.813002 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 525.
+Total: 0.783759 ms (FindLiveObjects: 0.222187 ms CreateObjectMapping: 0.036624 ms MarkObjects: 0.503461 ms  DeleteObjects: 0.020021 ms)
 

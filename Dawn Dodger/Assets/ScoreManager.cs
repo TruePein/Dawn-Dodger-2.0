@@ -7,8 +7,12 @@ public class ScoreManager : MonoBehaviour {
     public static int score;
 	// Use this for initialization
 	void Awake () {
-        text = GetComponent<Text>();
-        score = 0;
+		text = GetComponent<Text>();
+		score = 0;
+		if (Application.loadedLevelName != "Scene1") {
+			score = PlayerPrefs.GetInt("Score");
+		}
+		UpdateScoreText();
 	}
 	
 	// Update is called once per frame
